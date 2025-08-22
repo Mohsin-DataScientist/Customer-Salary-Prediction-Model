@@ -130,5 +130,5 @@ if submitted:
         st.error("Prediction failed. Check your artifacts and inputs.")
         st.exception(e)
 
-st.caption("Tip: Ensure `salary_model.h5`, `scaler.pkl`, `label_encoder_gender.pkl`, "
-           "`onehot_encoder_geo.pkl`, and `X_columns.pkl` are in the same folder as this app.")
+
+
